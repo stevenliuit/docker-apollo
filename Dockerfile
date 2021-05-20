@@ -1,7 +1,7 @@
 FROM maven:alpine
-MAINTAINER Swire Chen <idoop@msn.cn>
+MAINTAINER StevenLiu <stevenliuit@gmail.com>
 
-ENV VERSION=1.4.0 \
+ENV VERSION=1.8.1 \
     PORTAL_PORT=8070 \
     DEV_ADMIN_PORT=8090 \
     FAT_ADMIN_PORT=8091 \
